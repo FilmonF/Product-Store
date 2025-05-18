@@ -1,6 +1,6 @@
 <h1 align="center">MERN Crash Course 🚀</h1>
 
-![Demo App](/frontend/public/screenshot-for-readme.png)
+
 
 About This Course:
 
@@ -30,4 +30,3 @@ npm run build
 npm run start
 ```
 
-### I'll see you in the next one! 🚀
